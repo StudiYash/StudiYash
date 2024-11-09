@@ -329,7 +329,7 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 ### 📊 **GitHub Streak Stats**
 
 <p align="center">
-  <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" width="150">
+  <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" style="width: 60%;">
 </p>
 
 ### 🛠️ **Future Goals**
