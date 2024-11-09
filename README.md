@@ -101,14 +101,14 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
       </td>
       <td align="center" width="96">
         <a href="https://www.anaconda.com" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="Anaconda" width="40" height="40" />
+          <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="40" height="40" />
           <br>Anaconda
         </a>
       </td>
       <td align="center" width="96">
         <a href="https://colab.research.google.com" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Colab Pro" width="40" height="40" />
-          <br>Colab Pro
+          <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Colab Pro" width="40" height="40" />
+          <br>Colab
         </a>
       </td>
       <td align="center" width="96">
@@ -179,7 +179,7 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
       </td>
       <td align="center" width="96">
         <a href="https://keras.io" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/kerasio/kerasio-icon.svg" alt="Keras" width="40" height="40" />
+          <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" width="40" height="40" />
           <br>Keras
         </a>
       </td>
@@ -230,7 +230,7 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
       </td>
       <td align="center" width="96">
         <a href="https://getbootstrap.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+          <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Bootstrap" width="40" height="40" />
           <br>Bootstrap
         </a>
       </td>
@@ -242,7 +242,7 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
       </td>
       <td align="center" width="96">
         <a href="https://flask.palletsprojects.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
+          <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask" width="40" height="40" />
           <br>Flask
         </a>
       </td>
@@ -282,18 +282,23 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" style="width: 60%; margin-right: 2%;" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" style="width: 60%;" />
-
+  <table>
+    <tr>
+      <!-- GitHub Stats -->
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" style="width: 100%;" />
+      </td>
+      <!-- Top Languages -->
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" style="width: 100%;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<h3 align="center">🔥GitHub Streak Stats</h3>
+<h3 align="center">🔥 GitHub Streak Stats</h3>
 
 <p align="center">
   <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" style="width: 60%;">
