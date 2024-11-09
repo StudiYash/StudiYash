@@ -80,7 +80,7 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
       </td>
       <td align="center" width="96">
         <a href="https://github.com" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=ARy6tFUfwclb&format=png&color=000000" alt="GitHub" width="40" height="40" />
+          <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" alt="GitHub" width="40" height="40" />
           <br>GitHub
         </a>
       </td>
