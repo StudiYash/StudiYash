@@ -318,7 +318,8 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 <p align="center">
     <img src="https://github-readme-stats-seven-alpha-13.vercel.app/api?username=StudiYash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats">
     <img src="https://github-readme-stats-seven-alpha-13.vercel.app/api/top-langs/?username=StudiYash&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=studiyash&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="studiyash" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=studiyash&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="studiyash" /></p>
 </p>
 
 ---
