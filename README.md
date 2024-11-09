@@ -28,21 +28,25 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 <p align="center">
   <a href="https://twitter.com/studi4848" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="studi4848" height="40" width="40" />
+    <br />Twitter
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-shukla-2024aiguy/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-shukla-2024aiguy/" height="40" width="40" />
+    <br />LinkedIn
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kaggle.com/https://www.kaggle.com/studiyash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/studiyash" height="40" width="40" />
+    <br />Kaggle
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/https://www.instagram.com/studiyash/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/studiyash/" height="40" width="40" />
+    <br />Instagram
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/https://www.youtube.com/@yashshukla3996" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@yashshukla3996" height="40" width="40" />
+    <br />YouTube
   </a>
 </p>
-
 
 ---
 
