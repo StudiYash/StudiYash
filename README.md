@@ -25,27 +25,24 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 ---
 
 <h3>Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/studi4848" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="studi4848" height="40" width="40" />
-    <br />Twitter
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-shukla-2024aiguy/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-shukla-2024aiguy/" height="40" width="40" />
-    <br />LinkedIn
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kaggle.com/https://www.kaggle.com/studiyash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/studiyash" height="40" width="40" />
-    <br />Kaggle
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/https://www.instagram.com/studiyash/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/studiyash/" height="40" width="40" />
-    <br />Instagram
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/https://www.youtube.com/@yashshukla3996" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@yashshukla3996" height="40" width="40" />
-    <br />YouTube
   </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kaggle.com/https://www.kaggle.com/studiyash" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/studiyash" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/https://www.instagram.com/studiyash/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/studiyash/" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/studi4848" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="studi4848" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -83,7 +80,7 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
       </td>
       <td align="center" width="96">
         <a href="https://github.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+          <img src="https://www.flaticon.com/free-icon/github_3291695?term=github&page=1&position=1&origin=tag&related_id=3291695" alt="GitHub" width="40" height="40" />
           <br>GitHub
         </a>
       </td>
@@ -280,23 +277,6 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
   </table>
 </div>
 
-
----
-
-<h3 align="center">🚀 Projects</h3>
-
-#### **1️⃣ DweshaMukt**
-**Description**: An advanced multilingual and multimodal Hate Speech Detection System leveraging **BERT** and **Deep Learning** for detecting hate speech in **Hinglish**, Hindi, and English text/audio/video/images/GIFs.
-
-#### **2️⃣ InstaVision**
-**Description**: A Telegram bot enabling users to generate AI-powered images using 4 advanced models with features like **rate limiting**, **feedback automation**, and **24/7 availability**. Images are **watermarked** and stored locally with user activity tracked.
-
-#### **3️⃣ M.I.T.R.A**
-*Placeholder: Lorem Ipsum*
-
-#### **4️⃣ PyKing**
-*Placeholder: Lorem Ipsum*
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -320,13 +300,3 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 </p>
 
 ---
-
-<h3 align="center">🛠️ Future Goals</h3>
-<div align="center">
-- 🌟 Advance my research in **Deep Learning** and **AI Ethics**.  
-- 💡 Build scalable **AI-powered products** for real-world problems.  
-- 📜 Publish more **research papers** in reputed journals.
-</div>
-
----
-
