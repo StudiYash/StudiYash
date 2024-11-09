@@ -55,37 +55,31 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
     <!-- Row 1 -->
     <tr>
       <td align="center" width="96">
-        <a href="https://www.python.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
           <br>Python
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.postgresql.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="40" height="40" />
           <br>SQL
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://redis.io" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
           <br>Redis
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://git-scm.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
           <br>Git
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://github.com" target="_blank">
           <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" alt="GitHub" width="40" height="40" />
           <br>GitHub
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://telegram.org/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" />
           <br>Telegram
         </a>
@@ -94,37 +88,31 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
     <!-- Row 2 -->
     <tr>
       <td align="center" width="96">
-        <a href="https://www.notion.so" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40" />
           <br>Notion
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.anaconda.com" target="_blank">
           <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="40" height="40" />
           <br>Anaconda
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://colab.research.google.com" target="_blank">
           <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Colab Pro" width="40" height="40" />
           <br>Colab
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://cloud.google.com" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" />
           <br>GCP
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://aws.amazon.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
           <br>AWS
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.heroku.com" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" />
           <br>Heroku
         </a>
@@ -133,37 +121,31 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
     <!-- Row 3 -->
     <tr>
       <td align="center" width="96">
-        <a href="https://www.netlify.com" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" />
           <br>Netlify
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://railway.app" target="_blank">
           <img src="https://railway.app/brand/logo-light.png" alt="Railway" width="40" height="40" />
           <br>Railway
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://huggingface.co" target="_blank">
           <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40" />
           <br>Hugging Face
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://developer.nvidia.com/cuda-zone" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="CUDA" width="40" height="40" />
           <br>CUDA
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.tensorflow.org" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
           <br>TensorFlow
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://pytorch.org" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
           <br>PyTorch
         </a>
@@ -172,37 +154,31 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
     <!-- Row 4 -->
     <tr>
       <td align="center" width="96">
-        <a href="https://pandas.pydata.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
           <br>Pandas
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://keras.io" target="_blank">
           <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" width="40" height="40" />
           <br>Keras
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://scikit-learn.org" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
           <br>Scikit-learn
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://seaborn.pydata.org" target="_blank">
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
           <br>Seaborn
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://opencv.org" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
           <br>OpenCV
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://matplotlib.org" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
           <br>Matplotlib
         </a>
@@ -211,37 +187,31 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
     <!-- Row 5 -->
     <tr>
       <td align="center" width="96">
-        <a href="https://plotly.com" target="_blank">
           <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40" />
           <br>Plotly
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.w3.org/html/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
           <br>HTML
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.w3schools.com/css/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
           <br>CSS
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://getbootstrap.com" target="_blank">
           <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Bootstrap" width="40" height="40" />
           <br>Bootstrap
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
           <br>JavaScript
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://flask.palletsprojects.com/" target="_blank">
           <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask" width="40" height="40" />
           <br>Flask
         </a>
@@ -250,25 +220,21 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
     <!-- Row 6 -->
     <tr>
       <td align="center" width="96">
-        <a href="https://flutter.dev" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
           <br>Flutter
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://dart.dev" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
           <br>Dart
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.figma.com" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
           <br>Figma
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.canva.com" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40" />
           <br>Canva
         </a>
