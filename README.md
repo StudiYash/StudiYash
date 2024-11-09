@@ -319,16 +319,16 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" style="width: 100%; margin-right: 2%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" style="width: 60%; margin-right: 2%;" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" style="width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" style="width: 60%;" />
 
 </div>
 
 ### 📊 **GitHub Streak Stats**
 
-<div align="center" style="background-color: #0d1117; border-radius: 8px; padding: 20px;">
+<div align="center" style="background-color: #0d1117; border-radius: 8px; padding: 20px; border: 2px solid white;">
   <table style="width: 100%; text-align: center; border-spacing: 0px;">
     <tr>
       <!-- Total Contributions -->
@@ -355,7 +355,6 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
     </tr>
   </table>
 </div>
-
 
 
 ### 🛠️ **Future Goals**
