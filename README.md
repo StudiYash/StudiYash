@@ -315,14 +315,24 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 ---
 
 ### 📊 **GitHub Stats**
-<p align="center">
-    <img src="https://github-readme-stats-seven-alpha-13.vercel.app/api?username=StudiYash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats">
-    <img src="https://github-readme-stats-seven-alpha-13.vercel.app/api/top-langs/?username=StudiYash&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StudiYash&theme=radical&cache_seconds=86400" alt="studiyash" /></p>
-</p>
+<div align="center">
 
----
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" style="width: 48%; margin-right: 2%;" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" style="width: 48%;" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=StudiYash&theme=radical&cache_seconds=86400" alt="GitHub Streak" style="width: 50%;" />
+
+</div>
+
 
 ### 🛠️ **Future Goals**
 - 🌟 Advance my research in **Deep Learning** and **AI Ethics**.
