@@ -319,21 +319,43 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" style="width: 48%; margin-right: 2%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" style="width: 100%; margin-right: 2%;" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" style="width: 48%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" style="width: 100%;" />
 
 </div>
 
-<div align="center">
+### 📊 **GitHub Streak Stats**
 
-<!-- GitHub Streak -->
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=StudiYash&theme=radical" alt="GitHub Streak Stats">
-</p>
-
+<div align="center" style="background-color: #0d1117; border-radius: 8px; padding: 20px;">
+  <table style="width: 100%; text-align: center; border-spacing: 0px;">
+    <tr>
+      <!-- Total Contributions -->
+      <td>
+        <h2 style="color: #e34c26; margin: 5px;">208</h2>
+        <p style="margin: 0;">Total Contributions</p>
+        <p style="margin: 0; font-size: 12px; color: #58a6ff;">Aug 31 - Present</p>
+      </td>
+      <!-- Current Streak -->
+      <td>
+        <div style="width: 70px; height: 70px; margin: 0 auto; border: 4px solid #e34c26; border-radius: 50%; display: inline-flex; flex-direction: column; justify-content: center; align-items: center; background-color: #161b22;">
+          <span style="font-size: 18px;">🔥</span>
+          <h2 style="margin: 0; color: #f0f6fc;">6</h2>
+        </div>
+        <p style="margin: 10px 0 0; font-size: 14px; color: #FFD700; font-weight: bold;">Current Streak</p>
+        <p style="margin: 0; font-size: 12px; color: #58a6ff;">Nov 4 - Nov 9</p>
+      </td>
+      <!-- Longest Streak -->
+      <td>
+        <h2 style="color: #e34c26; margin: 5px;">13</h2>
+        <p style="margin: 0;">Longest Streak</p>
+        <p style="margin: 0; font-size: 12px; color: #58a6ff;">Sep 17 - Sep 29</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ### 🛠️ **Future Goals**
