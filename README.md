@@ -328,34 +328,9 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 
 ### 📊 **GitHub Streak Stats**
 
-<div align="center" style="background-color: #0d1117; border-radius: 8px; padding: 20px; border: 2px solid white;">
-  <table style="width: 100%; text-align: center; border-spacing: 0px;">
-    <tr>
-      <!-- Total Contributions -->
-      <td>
-        <h2 style="color: #e34c26; margin: 5px;">208</h2>
-        <p style="margin: 0;">Total Contributions</p>
-        <p style="margin: 0; font-size: 12px; color: #58a6ff;">Aug 31 - Present</p>
-      </td>
-      <!-- Current Streak -->
-      <td>
-        <div style="width: 70px; height: 70px; margin: 0 auto; border: 4px solid #e34c26; border-radius: 50%; display: inline-flex; flex-direction: column; justify-content: center; align-items: center; background-color: #161b22;">
-          <span style="font-size: 18px;">🔥</span>
-          <h2 style="margin: 0; color: #f0f6fc;">6</h2>
-        </div>
-        <p style="margin: 10px 0 0; font-size: 14px; color: #FFD700; font-weight: bold;">Current Streak</p>
-        <p style="margin: 0; font-size: 12px; color: #58a6ff;">Nov 4 - Nov 9</p>
-      </td>
-      <!-- Longest Streak -->
-      <td>
-        <h2 style="color: #e34c26; margin: 5px;">13</h2>
-        <p style="margin: 0;">Longest Streak</p>
-        <p style="margin: 0; font-size: 12px; color: #58a6ff;">Sep 17 - Sep 29</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
+<p align="center">
+  <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" width="150">
+</p>
 
 ### 🛠️ **Future Goals**
 - 🌟 Advance my research in **Deep Learning** and **AI Ethics**.
