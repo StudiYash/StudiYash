@@ -25,38 +25,13 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 ---
 
 <h3 align="left">Connect with me:</h3>
-<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
-    <div style="text-align: center;">
-        <a href="https://twitter.com/studi4848" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-        </a>
-        <p style="margin: 5px 0 0; font-size: 14px;">Twitter</p>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://linkedin.com/in/yash-shukla-2024aiguy/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-        </a>
-        <p style="margin: 5px 0 0; font-size: 14px;">LinkedIn</p>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.kaggle.com/studiyash" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
-        </a>
-        <p style="margin: 5px 0 0; font-size: 14px;">Kaggle</p>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.instagram.com/studiyash/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-        </a>
-        <p style="margin: 5px 0 0; font-size: 14px;">Instagram</p>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.youtube.com/@yashshukla3996" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
-        </a>
-        <p style="margin: 5px 0 0; font-size: 14px;">YouTube</p>
-    </div>
-</div>
+<p align="left">
+<a href="https://twitter.com/studi4848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="studi4848" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-shukla-2024aiguy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-shukla-2024aiguy/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/studiyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/studiyash" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/studiyash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/studiyash/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@yashshukla3996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@yashshukla3996" height="30" width="40" /></a>
+</p>
 
 ---
 
