@@ -329,7 +329,9 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StudiYash&theme=radical&cache_seconds=86400" alt="GitHub Streak" style="width: 50%;" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=StudiYash&theme=radical" alt="GitHub Streak Stats">
+</p>
 
 </div>
 
