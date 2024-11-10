@@ -20,12 +20,11 @@ I bring:
 - **Hands-on experience in DSA**, software development, and tech exploration.
 - A solid track record of building scalable AI solutions for impactful use cases.
 
-Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experience in investing and trading, actively involved in the stock market since my 12th standard.
+Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experience in investing and trading, actively involved in the stock market till date.
 
 ---
 
 <h3>Connect with me:</h3>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-shukla-2024aiguy/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-shukla-2024aiguy/" height="40" width="40" />
@@ -42,7 +41,6 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/studi4848" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="studi4848" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -267,7 +265,7 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 
 <p align="center">
-  <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" style="width: 60%;">
+  <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" style="width: 40%;">
 </p>
 
 ---
