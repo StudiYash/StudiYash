@@ -265,7 +265,7 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 
 <p align="center">
-  <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" style="width: 40%;">
+  <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" style="width: 50%;">
 </p>
 
 ---
