@@ -34,42 +34,17 @@
 ---
 
 ### 🖥️ Open-Source Projects
-<table>
-<tr><th>AI and Machine Learning</th><th>Telegram Bots</th></tr>
-<tr><td>
+<div style="display: flex; justify-content: center; width: 100%;">
 
 | Title                       | Stars                                                                                              | Technologies                                                                                       |
 |-----------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [Hate Speech Detection](https://github.com/StudiYash/DweshaMukt) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/DweshaMukt?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)             |
+| [DweshaMukt](https://github.com/StudiYash/DweshaMukt) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/DweshaMukt?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)             |
 | [InstaVision](https://github.com/StudiYash/InstaVision)         | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/InstaVision?style=flat-square&labelColor=black"/>         | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)             |
-| [Cancer Prediction System](https://github.com/StudiYash/CancerPrediction) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/CancerPrediction?style=flat-square&labelColor=black"/> | ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)                   |
+| [SafeDesk](https://github.com/StudiYash/SafeDesk) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/SafeDesk?style=flat-square&labelColor=black"/> | ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)                   |
+| [PyKing](https://github.com/StudiYash/PyKing) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/PyKing?style=flat-square&labelColor=black"/> | ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)                   |
+| [M.I.T.R.A](https://github.com/StudiYash/M.I.T.R.A) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/M.I.T.R.A?style=flat-square&labelColor=black"/> | ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)                   |
 
-</td><td>
-
-| Title                       | Stars                                                                                              | Technologies                                                                                       |
-|-----------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [Image Generation Bot](https://github.com/StudiYash/InstaVision) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/InstaVision?style=flat-square&labelColor=black"/> | ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku)                |
-| [Job Application Bot](https://github.com/StudiYash/JobBot)       | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/JobBot?style=flat-square&labelColor=black"/>       | ![Telegram](https://img.shields.io/badge/API-black?style=flat-square&logo=telegram)               |
-
-</td></tr></table>
-
-<table>
-<tr><th>Other Tools</th><th>Misc Projects</th></tr>
-<tr><td>
-
-| Title                       | Stars                                                                                              | Technologies                                                                                       |
-|-----------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [Smart Grocery List](https://github.com/StudiYash/SmartGrocery) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/SmartGrocery?style=flat-square&labelColor=black"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)                   |
-| [Book Recommendation Bot](https://github.com/StudiYash/BookBot) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/BookBot?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)                |
-
-</td><td>
-
-| Title                       | Stars                                                                                              | Technologies                                                                                       |
-|-----------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [Quantum Mechanics Quiz App](https://github.com/StudiYash/QuantumQuizApp) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/QuantumQuizApp?style=flat-square&labelColor=black"/> | ![Android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)                 |
-| [2D Shooter Game](https://github.com/StudiYash/ShooterGame) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/ShooterGame?style=flat-square&labelColor=black"/> | ![P5.js](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)                 |
-
-</td></tr></table>
+</div>
 
 ---
 
