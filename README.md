@@ -81,10 +81,6 @@ My GitHub Stats:
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StudiYash&theme=dracula" alt="Repos per Language" width="100%" height="20%" />
-</div>
-
-<div align="center">
   <table>
     <tr>
       <!-- GitHub Stats -->
