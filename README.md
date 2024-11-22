@@ -30,7 +30,6 @@
 - 📍 Based in Maharashtra, India.
 - 💻 **AI Developer and Researcher** creating impactful, scalable solutions using **TensorFlow, PyTorch, and AI frameworks**.
 - 📈 **Stock Market Enthusiast** with 3 years of experience in investing and trading.
-- 📊 Working on projects like **InstaVision** and **DweshaMukt** to address real-world challenges.
 
 ---
 
@@ -86,18 +85,16 @@ My GitHub Stats:
     <tr>
       <!-- GitHub Stats -->
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" style="width: 100%;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=studiyash&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="400px" />
       </td>
       <!-- Top Languages -->
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" style="width: 100%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiyash&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="400px" />
       </td>
     </tr>
   </table>
 </div>
 
-
-</details>
 
 ---
 
