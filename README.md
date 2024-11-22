@@ -98,23 +98,44 @@ My GitHub Stats:
 ---
 
 ### 🤝 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/yash-shukla-2024aiguy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/@yashshukla3996" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
-  </a>
-  <a href="https://kaggle.com/studiyash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/studiyash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/studi4848" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://linkedin.com/in/yash-shukla-2024aiguy" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+        </a>
+        <br>LinkedIn
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.youtube.com/c/@yashshukla3996" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
+        </a>
+        <br>YouTube
+      </td>
+      <td align="center" width="96">
+        <a href="https://kaggle.com/studiyash" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />
+        </a>
+        <br>Kaggle
+      </td>
+      <td align="center" width="96">
+        <a href="https://instagram.com/studiyash" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+        </a>
+        <br>Instagram
+      </td>
+      <td align="center" width="96">
+        <a href="https://twitter.com/studi4848" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+        </a>
+        <br>Twitter
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
