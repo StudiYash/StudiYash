@@ -77,11 +77,11 @@
 My GitHub Stats:
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StudiYash&theme=dracula" alt="Profile Details" width="800px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StudiYash&theme=dracula" alt="Profile Details" width="100%" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StudiYash&theme=dracula" alt="Repos per Language" width="800px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StudiYash&theme=dracula" alt="Repos per Language" width="100%" height="20%" />
 </div>
 
 <div align="center">
