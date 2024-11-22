@@ -1,249 +1,85 @@
 <h1 align="center">✨ Yash Shukla ✨</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=AI+Developer+and+Researcher;Creating+Solutions+for+a+Smarter+Tomorrow" alt="Typing SVG">
-</p>
-
-<p align="center">
-    <a href="https://github.com/StudiYash"><img src="https://img.shields.io/github/followers/StudiYash?style=social" alt="GitHub Followers"></a>
-    <a href="https://github.com/StudiYash"><img src="https://img.shields.io/github/stars/StudiYash?style=social" alt="GitHub Stars"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=StudiYash" alt="Profile Visitors">
-</p>
-
----
-
-### 👨‍💻 **About Me**
-Hi there! I'm **Yash Shukla**, an **AI Developer and Researcher** based in *Maharashtra, India*.   
-
-I bring:
-- **Proficiency in AI frameworks** like TensorFlow and PyTorch.
-- **Hands-on experience in DSA**, software development, and tech exploration.
-- A solid track record of building scalable AI solutions for impactful use cases.
-
-Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experience in investing and trading, actively involved in the stock market till date.
-
----
-
-<h3>Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-shukla-2024aiguy/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-shukla-2024aiguy/" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/https://www.youtube.com/@yashshukla3996" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@yashshukla3996" height="40" width="40" />
+  <a href="https://github.com/StudiYash">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yash+Shukla;AI+Developer+%7C+Researcher+%7C+Engineer;AI+%7C+Machine+Learning+%7C+Bots" alt="Typing SVG">
   </a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kaggle.com/https://www.kaggle.com/studiyash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/studiyash" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/https://www.instagram.com/studiyash/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/studiyash/" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/studi4848" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="studi4848" height="40" width="40" />
+</p>
+
+<p align="center">
+  <a href="https://studiyash.dev">
+    <img src="https://img.shields.io/badge/Website-studiyash.dev-red?style=flat-square">
+  </a>
+  <a href="https://drive.google.com/file/d/your_cv_link_here">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+  </a>
+  <a href="https://linkedin.com/in/yash-shukla-2024aiguy">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:studiYash@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/StudiYash">
+    <img src="https://img.shields.io/github/followers/StudiYash?style=social">
+  </a>
 </p>
 
 ---
 
-<h3 align="left">⚡ Technical Skills</h3>
-<h4 align="left">Languages, Frameworks, and Tools</h4>
-
-<div align="center">
-  <table>
-    <!-- Row 1 -->
-    <tr>
-      <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-          <br>Python
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="40" height="40" />
-          <br>SQL
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-          <br>Redis
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-          <br>Git
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" alt="GitHub" width="40" height="40" />
-          <br>GitHub
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" />
-          <br>Telegram
-        </a>
-      </td>
-    </tr>
-    <!-- Row 2 -->
-    <tr>
-      <td align="center" width="96">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40" />
-          <br>Notion
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="40" height="40" />
-          <br>Anaconda
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Colab Pro" width="40" height="40" />
-          <br>Colab
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" />
-          <br>GCP
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
-          <br>AWS
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" />
-          <br>Heroku
-        </a>
-      </td>
-    </tr>
-    <!-- Row 3 -->
-    <tr>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" />
-          <br>Netlify
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://railway.app/brand/logo-light.png" alt="Railway" width="40" height="40" />
-          <br>Railway
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40" />
-          <br>Hugging Face
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="CUDA" width="40" height="40" />
-          <br>CUDA
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-          <br>TensorFlow
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
-          <br>PyTorch
-        </a>
-      </td>
-    </tr>
-    <!-- Row 4 -->
-    <tr>
-      <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-          <br>Pandas
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" width="40" height="40" />
-          <br>Keras
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
-          <br>Scikit-learn
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
-          <br>Seaborn
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-          <br>OpenCV
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
-          <br>Matplotlib
-        </a>
-      </td>
-    </tr>
-    <!-- Row 5 -->
-    <tr>
-      <td align="center" width="96">
-          <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40" />
-          <br>Plotly
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
-          <br>HTML
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
-          <br>CSS
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Bootstrap" width="40" height="40" />
-          <br>Bootstrap
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-          <br>JavaScript
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask" width="40" height="40" />
-          <br>Flask
-        </a>
-      </td>
-    </tr>
-    <!-- Row 6 -->
-    <tr>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-          <br>Flutter
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-          <br>Dart
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-          <br>Figma
-        </a>
-      </td>
-      <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40" />
-          <br>Canva
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+### 📖 About Me
+- 📍 Based in Maharashtra, India.
+- 💻 **AI Developer and Researcher** creating impactful, scalable solutions using **TensorFlow, PyTorch, and AI frameworks**.
+- 📈 **Stock Market Enthusiast** with 3 years of experience in investing and trading.
+- 📊 Working on projects like **InstaVision** and **DweshaMukt** to address real-world challenges.
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>AI and Machine Learning</th><th>Telegram Bots</th></tr>
+<tr><td>
+
+| Title                       | Stars                                                                                              | Technologies                                                                                       |
+|-----------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [Hate Speech Detection](https://github.com/StudiYash/DweshaMukt) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/DweshaMukt?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)             |
+| [InstaVision](https://github.com/StudiYash/InstaVision)         | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/InstaVision?style=flat-square&labelColor=black"/>         | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)             |
+| [Cancer Prediction System](https://github.com/StudiYash/CancerPrediction) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/CancerPrediction?style=flat-square&labelColor=black"/> | ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)                   |
+
+</td><td>
+
+| Title                       | Stars                                                                                              | Technologies                                                                                       |
+|-----------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [Image Generation Bot](https://github.com/StudiYash/InstaVision) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/InstaVision?style=flat-square&labelColor=black"/> | ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku)                |
+| [Job Application Bot](https://github.com/StudiYash/JobBot)       | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/JobBot?style=flat-square&labelColor=black"/>       | ![Telegram](https://img.shields.io/badge/API-black?style=flat-square&logo=telegram)               |
+
+</td></tr></table>
+
+<table>
+<tr><th>Other Tools</th><th>Misc Projects</th></tr>
+<tr><td>
+
+| Title                       | Stars                                                                                              | Technologies                                                                                       |
+|-----------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [Smart Grocery List](https://github.com/StudiYash/SmartGrocery) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/SmartGrocery?style=flat-square&labelColor=black"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)                   |
+| [Book Recommendation Bot](https://github.com/StudiYash/BookBot) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/BookBot?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)                |
+
+</td><td>
+
+| Title                       | Stars                                                                                              | Technologies                                                                                       |
+|-----------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [Quantum Mechanics Quiz App](https://github.com/StudiYash/QuantumQuizApp) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/QuantumQuizApp?style=flat-square&labelColor=black"/> | ![Android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)                 |
+| [2D Shooter Game](https://github.com/StudiYash/ShooterGame) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/ShooterGame?style=flat-square&labelColor=black"/> | ![P5.js](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)                 |
+
+</td></tr></table>
+
+---
+
+### 📊 GitHub Stats
+My GitHub Stats:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StudiYash&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StudiYash&theme=dracula)
 
 <div align="center">
   <table>
@@ -260,12 +96,83 @@ Outside of tech, I’m a **Stock Market Enthusiast** with **3 years** of experie
   </table>
 </div>
 
+
+</details>
+
 ---
 
-<h3 align="center">🔥 GitHub Streak Stats</h3>
-
+### 🤝 Connect With Me
 <p align="center">
-  <img src="https://github.com/StudiYash/StudiYash/blob/main/GitHub%20Statistics/Github%20Statistics%2009_11_24_23_20.png" alt="GitHub Statistics" style="width: 50%;">
+  <a href="https://linkedin.com/in/yash-shukla-2024aiguy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/@yashshukla3996" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
+  </a>
+  <a href="https://kaggle.com/studiyash" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/studiyash" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/studi4848" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+  </a>
 </p>
 
 ---
+
+### ⚡ Technical Skills
+<h4 align="left">Languages, Frameworks, and Tools</h4>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /><br>Python</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /><br>SQL</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" /><br>Redis</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /><br>Git</td>
+      <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" width="40" height="40" /><br>GitHub</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40" /><br>Notion</td>
+      <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" width="40" height="40" /><br>Anaconda</td>
+      <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="40" height="40" /><br>Colab</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" /><br>GCP</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" /><br>AWS</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" /><br>Heroku</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" /><br>Netlify</td>
+      <td align="center" width="96"><img src="https://railway.app/brand/logo-light.png" width="40" height="40" /><br>Railway</td>
+      <td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" /><br>Hugging Face</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40" height="40" /><br>CUDA</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" /><br>TensorFlow</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" /><br>PyTorch</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" /><br>Pandas</td>
+      <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="40" height="40" /><br>Keras</td>
+      <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" /><br>Scikit-learn</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" /><br>Seaborn</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" /><br>OpenCV</td>
+      <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" /><br>Matplotlib</td>
+      <td align="center" width="96"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40" height="40" /><br>Plotly</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><br>HTML</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><br>CSS</td>
+      <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" width="40" height="40" /><br>Bootstrap</td>
+      <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /><br>JavaScript</td>
+      <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="40" height="40" /><br>Flask</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" /><br>Flutter</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" /><br>Dart</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /><br>Figma</td>
+      <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" /><br>Canva</td>
+    </tr>
+  </table>
+</div>
