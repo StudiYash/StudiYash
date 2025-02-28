@@ -8,8 +8,6 @@
     </a>
 </h1>
 
-<h2 align="center">A passionate AI Engineer / Data Scientist</h2>
-<br>
 <a href="#">
  <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/developer.gif" height ="205" width="335"/>
  </a>
