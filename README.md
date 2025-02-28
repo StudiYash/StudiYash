@@ -9,7 +9,7 @@
 </p>
 
 <a href="#">
- <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/developer.gif" height ="205" width="335"/>
+ <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/developer.gif" height ="525" width="335"/>
 </a>
 
 ### **🚀 Currently Learning**
@@ -31,8 +31,6 @@ Feel free to ask me about:
 - 🤖 **Machine Learning & Deep Learning**
 - 🧠 **AI & ML**
 - 🌐 **HTML, CSS, and JavaScript**
-
----
 
 <div align="center"> 
   <a href="https://studiyash.dev">
