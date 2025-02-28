@@ -1,24 +1,24 @@
-<h1 align="center">✨ Yash Shukla ✨</h1>
-
 <p align="center">
-  <a href="https://github.com/StudiYash">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yash+Shukla;AI+Developer+%7C+Researcher+%7C+Engineer;AI+%7C+Machine+Learning+%7C+Bots" alt="Typing SVG">
-  </a>
+  <img src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/Introduction.gif" width="600" alt="Welcome GIF">
 </p>
 
 <p align="center">
   <a href="https://studiyash.dev">
-    <img src="https://img.shields.io/badge/Website-studiyash.dev-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-studiyash.dev-ff9800?style=flat-square">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/your_cv_link_here">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-CV-00c853?style=flat-square&logo=adobe">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/yash-shukla-2024aiguy">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="mailto:studiYash@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:studiyash@gmail.com?subject=AI%20Collaboration&body=Hello,%20I'm%20interested%20in%20collaborating%20on%20AI%20projects.">
+    <img src="https://img.shields.io/badge/-Email-ff4081?style=flat-square&logo=gmail&logoColor=white">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/StudiYash">
     <img src="https://img.shields.io/github/followers/StudiYash?style=social">
   </a>
