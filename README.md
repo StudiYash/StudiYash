@@ -8,8 +8,8 @@
     </a>
 </p>
 
-<a href="https://sketchfab.com/3d-models/robot-walk-animation-40e2de1d942f43eca60e2344c5e91d12" target="_blank">
-    <img align="right" src="https://media.sketchfab.com/models/40e2de1d942f43eca60e2344c5e91d12/thumbnails/1e0c7088c3d142c5aa54df212cb29995/960x540.jpeg" height="525" width="360" alt="3D Robot Model">
+<a href="#">
+ <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/Robot.gif" height ="525" width="360"/>
 </a>
 
 ### **🚀 Currently Learning**
