@@ -9,7 +9,7 @@
 </p>
 
 <a href="#">
- <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/developer.gif" height ="525" width="335"/>
+ <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/developer.gif" height ="525" width="435"/>
 </a>
 
 ### **🚀 Currently Learning**
