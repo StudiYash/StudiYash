@@ -2,7 +2,29 @@
   <img src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/Introduction.gif" width="1000" alt="Welcome GIF">
 </p>
 
-<p align="center">
+<h1 align="center">
+    <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFD700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Yash+Shukla!" />
+    </a>
+</h1>
+
+<h2 align="center">A passionate AI Engineer / Data Scientist</h2>
+<br>
+<a href="#">
+ <img align="right" src="assets/engineer1.gif" height ="205" width="335"/>
+ </a>
+ <div align="left">
+<p>
+    
+**🌱 I’m currently learning Go Lang, Docker, Supabase, AWS, Oracle, Azure**
+
+**💬 Ask me about MERN, Firebase, Computer Vision, Python, MySQL, <br>
+Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.vercel.app/)** 
+
+**🔭 I’m looking to collaborate on Data Science and Machine Learning projects** </p>
+</div>
+ 
+<div align="left"> 
   <a href="https://studiyash.dev">
     <img src="https://img.shields.io/badge/Website-studiyash.dev-ff9800?style=flat-square">
   </a>
@@ -22,14 +44,9 @@
   <a href="https://github.com/StudiYash">
     <img src="https://img.shields.io/github/followers/StudiYash?style=social">
   </a>
-</p>
-
----
-
-### 📖 About Me
-- 📍 Based in Maharashtra, India.
-- 💻 **AI Developer and Researcher** creating impactful, scalable solutions using **TensorFlow, PyTorch, and AI frameworks**.
-- 📈 **Stock Market Enthusiast** with 3 years of experience in investing and trading.
+</div>
+<br>
+<hr>
 
 ---
 
