@@ -2,11 +2,11 @@
   <img src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/Introduction.gif" width="1000" alt="Welcome GIF">
 </p>
 
-<h1 align="center">
+<p align="center">
     <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFD700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Yash+Shukla!" />
     </a>
-</h1>
+</p>
 
 <a href="#">
  <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/developer.gif" height ="205" width="335"/>
