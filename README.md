@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/Introduction.gif" width="600" alt="Welcome GIF">
+  <img src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/Introduction.gif" width="1000" alt="Welcome GIF">
 </p>
 
 <p align="center">
