@@ -11,7 +11,7 @@
 <h2 align="center">A passionate AI Engineer / Data Scientist</h2>
 <br>
 <a href="#">
- <img align="right" src="assets/engineer1.gif" height ="205" width="335"/>
+ <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/developer.gif" height ="205" width="335"/>
  </a>
  <div align="left">
 <p>
@@ -19,7 +19,7 @@
 **🌱 I’m currently learning Go Lang, Docker, Supabase, AWS, Oracle, Azure**
 
 **💬 Ask me about MERN, Firebase, Computer Vision, Python, MySQL, <br>
-Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.vercel.app/)** 
+Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...]()** 
 
 **🔭 I’m looking to collaborate on Data Science and Machine Learning projects** </p>
 </div>
