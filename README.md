@@ -10,18 +10,31 @@
 
 <a href="#">
  <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/developer.gif" height ="205" width="335"/>
- </a>
- <div align="left">
-<p>
-**🌱 I’m currently learning Go Lang, Docker, Supabase, AWS, Oracle, Azure**
+</a>
 
-**💬 Ask me about MERN, Firebase, Computer Vision, Python, MySQL, <br>
-Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...]()** 
+### **🚀 Currently Learning**
+I'm currently taking the following courses on Udemy:
+- 🐍 **The Complete Python Bootcamp From Zero to Hero in Python**
+- 🔥 **REST APIs with Flask and Python in 2025**
+- 🛡️ **Learn Python & Ethical Hacking From Scratch**
+- 🗄️ **The Complete SQL Bootcamp: Go from Zero to Hero**
+- 🤖 **Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]**
+- 🧠 **Deep Learning A-Z 2025: Neural Networks, AI & ChatGPT Prize**
+- 🏆 **Artificial Intelligence A-Z 2025: Build 7 AI + LLM & ChatGPT**
+- 🚀 **Complete Generative AI Course With Langchain and Huggingface**
+- 🌐 **The Complete Full-Stack Web Development Bootcamp**
+- 📊 **Microsoft Excel: From Beginner to Expert**
 
-**🔭 I’m looking to collaborate on Data Science and Machine Learning projects** </p>
-</div>
- 
-<div align="left"> 
+### **💬 Ask Me About**
+Feel free to ask me about:
+- 🐍 **Python**
+- 🤖 **Machine Learning & Deep Learning**
+- 🧠 **AI & ML**
+- 🌐 **HTML, CSS, and JavaScript**
+
+---
+
+<div align="center"> 
   <a href="https://studiyash.dev">
     <img src="https://img.shields.io/badge/Website-studiyash.dev-ff9800?style=flat-square">
   </a>
@@ -44,8 +57,6 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...]()**
 </div>
 <br>
 <hr>
-
----
 
 ### 🖥️ Open-Source Projects
 <div style="display: flex; justify-content: center; width: 100%;">
