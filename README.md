@@ -59,9 +59,7 @@ Feel free to ask me about:
 <table>
 <tr>
 <th colspan="2" align="left" style="font-size:20px; font-weight:bold; padding:10px; background:#212121; color:white; border-radius:5px;">Machine Learning / Deep Learning</th>
-<th colspan="2" align="left" style="font-size:20px; font-weight:bold; padding:10px; background:#212121; color:white; border-radius:5px;">Knowledge Base</th>
 </tr>
-<tr><td>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
@@ -72,7 +70,10 @@ Feel free to ask me about:
 | **Y.V.D** | ⭐ <span style="color:red; background:#FF6B6B; padding:3px 7px; border-radius:4px;">Repo Not Found</span> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube) | ✅ Complete |
 | **P.A.G** | ⭐ <span style="color:red; background:#FF6B6B; padding:3px 7px; border-radius:4px;">Repo Not Found</span> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![MatPlotLib](https://img.shields.io/badge/MatPlotLib-darkblue?style=flat&logo=python) | ✅ Complete |
 
-</td><td>
+<table>
+<tr>
+<th colspan="2" align="left" style="font-size:20px; font-weight:bold; padding:10px; background:#212121; color:white; border-radius:5px;">Knowledge Base</th>
+</tr>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
@@ -83,20 +84,20 @@ Feel free to ask me about:
 | **SQLinion** | ⭐ <span style="color:red; background:#FF6B6B; padding:3px 7px; border-radius:4px;">Repo Not Found</span> | ![SQL](https://img.shields.io/badge/SQL-yellow?style=flat&logo=postgresql) | ✅ Complete |
 | **CyberZard** | ⭐ <span style="color:red; background:#FF6B6B; padding:3px 7px; border-radius:4px;">Repo Not Found</span> | ![CyberSecurity](https://img.shields.io/badge/Cybersecurity-black?style=flat&logo=kali-linux) | ✅ Complete |
 
-</td></tr>
-
+<table>
 <tr>
 <th colspan="2" align="left" style="font-size:20px; font-weight:bold; padding:10px; background:#212121; color:white; border-radius:5px;">GenerativeAI</th>
-<th colspan="2" align="left" style="font-size:20px; font-weight:bold; padding:10px; background:#212121; color:white; border-radius:5px;">UI/UX</th>
 </tr>
-<tr><td>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
 | **InstaVision** | ⭐ <span style="color:red; background:#FF6B6B; padding:3px 7px; border-radius:4px;">Repo Not Found</span> | ![StableDiffusion](https://img.shields.io/badge/StableDiffusion-darkblue?style=flat&logo=stablediffusion) ![DALL-E](https://img.shields.io/badge/DALL--E-green?style=flat&logo=openai) ![Google Imagen](https://img.shields.io/badge/Google_Imagen-orange?style=flat&logo=google) | ✅ Complete |
 | **AutoMind** | ⭐ <span style="color:red; background:#FF6B6B; padding:3px 7px; border-radius:4px;">Repo Not Found</span> | ![GPT](https://img.shields.io/badge/GPT-darkgreen?style=flat&logo=openai) | ✅ Complete |
 
-</td><td>
+<table>
+<tr>
+<th colspan="2" align="left" style="font-size:20px; font-weight:bold; padding:10px; background:#212121; color:white; border-radius:5px;">UI/UX</th>
+</tr>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
