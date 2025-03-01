@@ -83,6 +83,13 @@ Feel free to ask me about:
 
 ---
 
+### 🎵 Now Playing on YouTube 🎵
+<p align="center">
+  <img src="https://youtube-now-playing.vercel.app/api/now-playing?channel=UC9Ygv-rPFYKppE29nH1OtjA" alt="Now Playing on YouTube">
+</p>
+
+---
+
 ## 🖥️ Open-Source Projects
 
 <table>
