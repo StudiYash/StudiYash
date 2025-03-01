@@ -9,14 +9,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3  # ✅ Fixes "not a git repository" error
+
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: StudiYash  # Replace with your GitHub username
-          outputs: github-contribution-grid-snake.svg
+          github_user_name: StudiYash  # ✅ Replace with your GitHub username
+          svg_out_path: dist/github-contribution-grid-snake.svg  # ✅ Fixes output path error
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
           message: "Updated Snake Animation"
           default_author: github_actions
+          add: "dist/github-contribution-grid-snake.svg"
