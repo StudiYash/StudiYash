@@ -28,11 +28,13 @@ jobs:
           name: snake-artifact
           path: github-contribution-grid-snake.svg
 
-      - name: Commit and Push the SVG File
+            - name: Commit and Push the SVG File
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the token stored in Secrets
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://StudiYash:${{ secrets.GH_TOKEN }}@github.com/StudiYash/StudiYash.git
           git add github-contribution-grid-snake.svg
           git commit -m "Updated Snake Contribution Grid"
-          git push
-        continue-on-error: true  # Prevents failures if there are no new changes
+          git push origin main
