@@ -56,6 +56,8 @@ Feel free to ask me about:
 <br>
 <hr>
 
+## 🖥️ Open-Source Projects
+
 <table>
 <tr><th>Machine Learning </th><th>Knowledge Base</th></tr>
 <tr><td>
