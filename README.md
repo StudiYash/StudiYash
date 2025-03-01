@@ -56,6 +56,9 @@ Feel free to ask me about:
 <br>
 <hr>
 
+## 🐍 Contribution Snake Animation
+![GitHub Snake](https://github.com/StudiYash/StudiYash/blob/output/github-contribution-grid-snake.svg)
+
 ## 🖥️ Open-Source Projects
 
 <table>
