@@ -38,3 +38,4 @@ jobs:
           git add github-contribution-grid-snake.svg
           git commit -m "Updated Snake Contribution Grid"
           git push origin main
+
