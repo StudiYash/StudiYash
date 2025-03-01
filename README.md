@@ -56,15 +56,13 @@ Feel free to ask me about:
 <br>
 <hr>
 
-<p align="center">
-  ### 🐍 My Contributions 🐍
-</p>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 
 ![GitHub Snake](https://github.com/StudiYash/StudiYash/blob/main/github-contribution-grid-snake-dark.svg)
 
 ---
 
-### ⚡ GitHub Stats ⚡
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <p align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=StudiYash&theme=react&border_radius=10&border=61DAFB" />
   <img width=367 src="https://github-readme-stats.vercel.app/api?username=StudiYash&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
@@ -76,21 +74,14 @@ Feel free to ask me about:
 
 ---
 
-### 🚀 Live GitHub Activity Graph 🚀
+<h2 align="center">🚀 Live GitHub Activity Graph 🚀</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StudiYash&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🎵 Now Playing on YouTube 🎵
-<p align="center">
-  <img src="https://youtube-now-playing.vercel.app/api/now-playing?channel=UC9Ygv-rPFYKppE29nH1OtjA" alt="Now Playing on YouTube">
-</p>
-
----
-
-## 🖥️ Open-Source Projects
+<h2 align="center">🖥️ Open-Source Projects 🖥️</h2>
 
 <table>
 <tr><th>Machine Learning </th><th>Knowledge Base</th></tr>
