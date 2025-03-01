@@ -57,15 +57,17 @@ Feel free to ask me about:
 <hr>
 
 <p align="center">
-### 🐍 My Contributions 🐍
+  ### 🐍 My Contributions 🐍
 </p>
 
 ![GitHub Snake](https://github.com/StudiYash/StudiYash/blob/main/github-contribution-grid-snake-dark.svg)
 
+---
+
 ### ⚡ GitHub Stats ⚡
 <p align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=StudiYash&theme=react&border_radius=10&border=61DAFB" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=StudiYash&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
+  <img width=380 src="https://github-readme-stats.vercel.app/api?username=StudiYash&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
 </p>
 
 <p align="center">
