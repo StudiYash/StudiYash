@@ -74,6 +74,15 @@ Feel free to ask me about:
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudiYash&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
 </p>
 
+---
+
+### 🚀 Live GitHub Activity Graph 🚀
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StudiYash&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
 ## 🖥️ Open-Source Projects
 
 <table>
