@@ -184,6 +184,75 @@ Feel free to ask me about:
 ⚡ <b>Fun fact :</b> I can code for hours with just coffee and music!  
 🤑 <b>Finance Enthusiast :</b> I know a lot about Personal Finance, Stock Market Investing and Trading and other other Financial Assets
 
+---
+
+<h2 align="center">🚀 My Ventures 🚀</h2>
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <!-- Card 1: AI Darbar (Instagram) -->
+    <td align="center" style="border: none;">
+      <a href="https://www.instagram.com/ai_darbar" target="_blank">
+        <div style="
+          width: 350px;
+          border: 2px solid #333;
+          border-radius: 15px;
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          padding: 20px;
+          margin: 10px;
+          background-color:  #06e1bc;
+        ">
+          <!-- Logo -->
+          <img 
+            src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+            alt="Instagram Logo" 
+            style="width:60px; height:60px; margin-right: 20px;"
+          >
+          <!-- Text Content -->
+          <div style="text-align: left; color:purple">
+            <h3 style="margin: 0;"><b>AI Darbar</b></h3>
+            <p style="margin: 5px 0; color:black">
+              <strong>About:</strong> Weekly AI updates, AI News of the Day, tips and latest updates to keep you ahead in the AI space. Join our Instagram community!
+            </p>
+          </div>
+        </div>
+      </a>
+    </td>
+    <!-- Card 2: Medium Articles -->
+    <td align="center" style="border: none;">
+      <a href="https://medium.com/@yashshukla4848" target="_blank">
+        <div style="
+          width: 350px;
+          border: 2px solid #333;
+          border-radius: 15px;
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          padding: 20px;
+          margin: 10px;
+          background-color: #06e1bc;
+        ">
+          <!-- Logo -->
+          <img 
+            src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" 
+            alt="Medium Logo" 
+            style="width:60px; height:60px; margin-right: 20px;"
+          >
+          <!-- Text Content -->
+          <div style="text-align: left; color:purple">
+            <h3 style="margin: 0;"><b>Medium Articles</b></h3>
+            <p style="margin: 5px 0; color:black">
+              <strong>About:</strong> In-depth articles on AI, ML, and the future of technology. Weekly in depth News Articles. Dive into my latest write-ups!
+            </p>
+          </div>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 <br>
 <div align="center" ><a href="#"><img alt="" width="100%" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/hackerscreen.gif"></a></div>
