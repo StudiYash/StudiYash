@@ -32,26 +32,6 @@ Feel free to ask me about:
 - 🧠 **AI & ML**
 - 🌐 **HTML, CSS, and JavaScript**
 
-<div align="center"> 
-  <a href="https://studiyash.dev">
-    <img src="https://img.shields.io/badge/Website-studiyash.dev-ff9800?style=flat-square">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/your_cv_link_here">
-    <img src="https://img.shields.io/badge/PDF-CV-00c853?style=flat-square&logo=adobe">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:studiyash@gmail.com?subject=AI%20Collaboration&body=Hello,%20I'm%20interested%20in%20collaborating%20on%20AI%20projects.">
-    <img src="https://img.shields.io/badge/-Email-ff4081?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/StudiYash">
-    <img src="https://img.shields.io/github/followers/StudiYash?style=social">
-  </a>
-</div>
-<br>
-
-
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 
 <div align="center">
@@ -87,9 +67,34 @@ Feel free to ask me about:
         </a>
         <br>Twitter
       </td>
+      <td align="center" width="96">
+        <a href="https://medium.com/@yashshukla4848" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Twitter" width="30" height="30" />
+        </a>
+        <br>Medium
+      </td>
     </tr>
   </table>
 </div>
+
+<div align="center"> 
+  <a href="https://studiyash.dev">
+    <img src="https://img.shields.io/badge/Website-studiyash.dev-ff9800?style=flat-square">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/your_cv_link_here">
+    <img src="https://img.shields.io/badge/PDF-CV-00c853?style=flat-square&logo=adobe">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:studiyash@gmail.com?subject=AI%20Collaboration&body=Hello,%20I'm%20interested%20in%20collaborating%20on%20AI%20projects.">
+    <img src="https://img.shields.io/badge/-Email-ff4081?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/StudiYash">
+    <img src="https://img.shields.io/github/followers/StudiYash?style=social">
+  </a>
+</div>
+<br>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
