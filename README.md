@@ -41,10 +41,6 @@ Feel free to ask me about:
     <img src="https://img.shields.io/badge/PDF-CV-00c853?style=flat-square&logo=adobe">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yash-shukla-2024aiguy">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:studiyash@gmail.com?subject=AI%20Collaboration&body=Hello,%20I'm%20interested%20in%20collaborating%20on%20AI%20projects.">
     <img src="https://img.shields.io/badge/-Email-ff4081?style=flat-square&logo=gmail&logoColor=white">
   </a>
@@ -54,7 +50,46 @@ Feel free to ask me about:
   </a>
 </div>
 <br>
-<hr>
+
+
+<h2 align="center">🤝 Connect With Me 🤝</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://linkedin.com/in/yash-shukla-2024aiguy" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+        </a>
+        <br>LinkedIn
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.youtube.com/c/@yashshukla3996" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30" />
+        </a>
+        <br>YouTube
+      </td>
+      <td align="center" width="96">
+        <a href="https://kaggle.com/studiyash" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="30" />
+        </a>
+        <br>Kaggle
+      </td>
+      <td align="center" width="96">
+        <a href="https://instagram.com/studiyash" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
+        </a>
+        <br>Instagram
+      </td>
+      <td align="center" width="96">
+        <a href="https://twitter.com/studi4848" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
+        </a>
+        <br>Twitter
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
