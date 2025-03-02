@@ -76,7 +76,7 @@ Feel free to ask me about:
 
 <h2 align="center">🚀 Live GitHub Activity Graph 🚀</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StudiYash&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StudiYash&theme=dracula" alt="Profile Details" width="100%" />
 </p>
 
 ---
@@ -128,3 +128,33 @@ Feel free to ask me about:
 
 </td></tr>
 </table>
+
+<h2 align="center">⚡ More About Me ⚡</h2>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=🖥️+IT+Engineer+🖥️;🤖+AI+Developer+🤖;🌐+Web+Development+Enthusiast+🌐;🚀+Aspiring+Prompt+Engineer+🚀;🌐+UI/UX+Explorer+💫" />
+</a>
+<div align="center" style="font-size: 16px; line-height: 1.8;">
+
+🔭 <b>Currently working on following projects :</b> SafeDesk, AutoMind, MusicAll and PyKing  
+👯 <b>Looking to collaborate on following projects :</b> TradeCoin and Laukku  
+💬 <b>Ask me about :</b> Python, Machine Learning, Deep Learning, Artificial Intelligence  
+⚡ <b>Fun fact :</b> I can code for hours with just coffee and music!  
+🤑 <b>Finance Enthusiast :</b> I know a lot about Personal Finance, Stock Market Investing and Trading and other other Financial Assets
+
+</div>
+<br>
+<div align="center" ><a href="#"><img alt="" width="100%" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/hackerscreen.gif"></a></div>
+ <hr/>
+<div align="center">
+    <a href="#">
+        <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=FFD700&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
+    </a>
+</div>
+<div align="center">
+    <a href="#">
+        <img src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/footer.svg" width=100%/>
+    </a>
+</div>
+
+<br>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
