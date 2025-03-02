@@ -200,7 +200,7 @@ Feel free to ask me about:
   </a>
   
   <!-- Card 2 -->
-  <a href="https://medium.com/@YourMediumUserName" target="_blank">
+  <a href="https://medium.com/@yashshukla4848" target="_blank">
     <img 
       src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/medium_card.png" 
       alt="Medium Articles Card" 
