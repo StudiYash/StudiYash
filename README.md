@@ -44,7 +44,7 @@ Feel free to ask me about:
         <br>LinkedIn
       </td>
       <td align="center" width="96">
-        <a href="https://www.youtube.com/c/@yashshukla3996" target="_blank">
+        <a href="https://www.youtube.com/channel/UCS2xZ-8IspKzK8d80Qvg9Cw" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30" />
         </a>
         <br>YouTube
@@ -56,7 +56,7 @@ Feel free to ask me about:
         <br>Kaggle
       </td>
       <td align="center" width="96">
-        <a href="https://instagram.com/studiyash" target="_blank">
+        <a href="https://instagram.com/ai_darbar" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
         </a>
         <br>Instagram
