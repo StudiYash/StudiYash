@@ -188,8 +188,6 @@ Feel free to ask me about:
 
 <h2 align="center">🚀 My Ventures 🚀</h2>
 
-<h2 align="center">My Ventures</h2>
-
 <p align="center">
   <!-- Card 1 -->
   <a href="https://instagram.com/ai_darbar" target="_blank">
@@ -197,7 +195,7 @@ Feel free to ask me about:
       src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/ai_darbar_card.png" 
       alt="AI Darbar Card" 
       width="400" 
-      style="margin-right: 20px;" 
+      style="margin-right: 40px;" 
     />
   </a>
   
