@@ -130,9 +130,11 @@ Feel free to ask me about:
 </table>
 
 <h2 align="center">⚡ More About Me ⚡</h2>
-<a href="#" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=🖥️+IT+Engineer+🖥️;🤖+AI+Developer+🤖;🌐+Web+Development+Enthusiast+🌐;🚀+Aspiring+Prompt+Engineer+🚀;🌐+UI/UX+Explorer+💫" />
-</a>
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=🖥️+IT+Engineer+🖥️;🤖+AI+Developer+🤖;🌐+Web+Development+Enthusiast+🌐;🚀+Aspiring+Prompt+Engineer+🚀" />
+  </a>
+</p>
 
 <div align="center" style="font-size: 16px; line-height: 1.8;">
 
