@@ -124,7 +124,7 @@ Feel free to ask me about:
 <h2 align="center">🖥️ Open-Source Projects 🖥️</h2>
 
 <table>
-<tr><th>Machine Learning </th><th>Knowledge Base</th></tr>
+<tr><th>ML / DL / AI</th><th>Knowledge Base</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies | Status |
@@ -132,9 +132,8 @@ Feel free to ask me about:
 | **DweshaMukt** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/DweshaMukt"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TF-blue?style=flat&logo=tensorflow) ![NLTK](https://img.shields.io/badge/NLTK-darkgreen?style=flat&logo=python) ![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram) ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit) | ✅ Project Complete |
 | **M.I.T.R.A** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/M.I.T.R.A"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-purple?style=flat&logo=google) ![NLP](https://img.shields.io/badge/NLP-darkgreen?style=flat&logo=openai) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-teal?style=flat&logo=keras) ![Voice Assistant](https://img.shields.io/badge/Voice_Assistant-blue?style=flat&logo=googleassistant) | 📇 Research Phase |
 | **SafeDesk** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/SafeDesk"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat&logo=opencv) ![Face Recognition](https://img.shields.io/badge/FaceRecognition-darkred?style=flat&logo=opencv) ![Tkinter](https://img.shields.io/badge/Tkinter-teal?style=flat&logo=python) ![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail) ![QR Code](https://img.shields.io/badge/QR_Code-darkblue?style=flat&logo=python) | 🧪 Development Phase |
-| **MusicAll** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/MusicAll"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![RNN](https://img.shields.io/badge/RNN-darkgreen?style=flat&logo=keras) ![YouTube-Music](https://img.shields.io/badge/YouTube_Music-red?style=flat&logo=youtube) ![JioSaavn](https://img.shields.io/badge/JioSaavn-darkblue?style=flat&logo=jiosaavn) | 🧪 Development Phase |
-| **StreamSnatch** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/StreamSnatch"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube) | 🔮 Planning Phase |
-| **P.A.G** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/P.A.G"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![MatPlotLib](https://img.shields.io/badge/MatPlotLib-darkblue?style=flat&logo=python) | 🔮 Planning Phase |
+| **InstaVision** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/InstaVision"/> | ![StableDiffusion](https://img.shields.io/badge/StableDiffusion-darkblue?style=flat&logo=stablediffusion) ![DALL-E](https://img.shields.io/badge/DALL--E-green?style=flat&logo=openai) ![Google Imagen](https://img.shields.io/badge/Google_Imagen-orange?style=flat&logo=google) | ✅ Project Complete |
+| **AutoMind** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/AutoMind"/> | ![GPT](https://img.shields.io/badge/GPT-darkgreen?style=flat&logo=openai) | 🧪 Development Phase |
 
 </td><td>
 
@@ -151,13 +150,15 @@ Feel free to ask me about:
 </table>
 
 <table>
-<tr><th>GenerativeAI</th><th>UI/UX</th></tr>
+<tr><th>Pure Python</th><th>UI/UX</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
-| **InstaVision** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/InstaVision"/> | ![StableDiffusion](https://img.shields.io/badge/StableDiffusion-darkblue?style=flat&logo=stablediffusion) ![DALL-E](https://img.shields.io/badge/DALL--E-green?style=flat&logo=openai) ![Google Imagen](https://img.shields.io/badge/Google_Imagen-orange?style=flat&logo=google) | ✅ Project Complete |
-| **AutoMind** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/AutoMind"/> | ![GPT](https://img.shields.io/badge/GPT-darkgreen?style=flat&logo=openai) | 🧪 Development Phase |
+| **RetroFusion** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/RetroFusion"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![PyGame](https://img.shields.io/badge/PyGame-darkgreen?style=flat&logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-teal?style=flat&logo=python) | ✅ Project Complete |
+| **MusicAll** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/MusicAll"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![RNN](https://img.shields.io/badge/RNN-darkgreen?style=flat&logo=keras) ![YouTube-Music](https://img.shields.io/badge/YouTube_Music-red?style=flat&logo=youtube) ![JioSaavn](https://img.shields.io/badge/JioSaavn-darkblue?style=flat&logo=jiosaavn) | 🧪 Development Phase |
+| **StreamSnatch** | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/StreamSnatch"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube) | 🔮 Planning Phase |
+
 
 </td><td>
 
