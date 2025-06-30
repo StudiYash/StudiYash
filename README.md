@@ -15,7 +15,6 @@
  <img align="right" src="https://github.com/StudiYash/StudiYash/blob/main/Support%20Files/Robot.gif" height ="525" width="360"/>
 </a>
 
----
 
 ### **🚀 Currently Learning**
 I'm currently taking the following courses on Udemy:
@@ -153,7 +152,7 @@ Feel free to ask me about:
 </table>
 
 <table>
-<tr><th>Pure Python and SQL</th><th>UI/UX</th></tr>
+<tr><th>Pure Python and SQL</th><th>Full Stack Web Dev and UI/UX</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies | Status |
@@ -161,7 +160,6 @@ Feel free to ask me about:
 | [**RetroFusion**](https://github.com/StudiYash/RetroFusion) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/RetroFusion"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![PyGame](https://img.shields.io/badge/PyGame-darkgreen?style=flat&logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-teal?style=flat&logo=python) | 🚧 Ongoing |
 | [**MusicAll**](https://github.com/StudiYash/MusicAll) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/MusicAll"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![RNN](https://img.shields.io/badge/RNN-darkgreen?style=flat&logo=keras) ![YouTube-Music](https://img.shields.io/badge/YouTube_Music-red?style=flat&logo=youtube) ![JioSaavn](https://img.shields.io/badge/JioSaavn-darkblue?style=flat&logo=jiosaavn) | 🧪 Development Phase |
 | [**StreamSnatch**](https://github.com/StudiYash/StreamSnatch) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/StreamSnatch"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube) | 🔮 Planning Phase |
-| [**Blogster**](https://github.com/StudiYash/Blogster) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/Blogster"/> | ![MERN](https://img.shields.io/badge/MERN-FullStack?style=flat&logo=javascript) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb) ![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=express) ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) | 🚧 Ongoing |
 | [**SmolTalk**](https://github.com/StudiYash/SmolTalk) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/SmolTalk"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![Ollama](https://img.shields.io/badge/Ollama-darkblue?style=flat&logo=openai) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-green?style=flat&logo=python) | 🚧 Ongoing |
 | [**PyKing**](https://github.com/StudiYash/PyKing) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/PyKing"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) | 🚧 Ongoing |
 | [**SQLinion**](https://github.com/StudiYash/SQLinion) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/SQLinion"/> | ![SQL](https://img.shields.io/badge/SQL-darkgreen?style=flat&logo=postgresql) | 🚧 Ongoing |
@@ -170,6 +168,7 @@ Feel free to ask me about:
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
+| [**Blogster**](https://github.com/StudiYash/Blogster) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/Blogster"/> | ![MERN](https://img.shields.io/badge/MERN-FullStack?style=flat&logo=javascript) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb) ![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=express) ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) | 🚧 Ongoing |
 | [**TradeCoin**](https://github.com/StudiYash/TradeCoin) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/TradeCoin"/> | ![Wondershare Mockit](https://img.shields.io/badge/Wondershare_Mockit-purple?style=flat&logo=wondershare) | ✅ Project Complete |
 
 </td></tr>
@@ -179,9 +178,9 @@ Feel free to ask me about:
 <h2 align="center">⚡ More About Me ⚡</h2>
 
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=🖥️+IT+Engineer+🖥️;🤖+AI+Developer+🤖;🌐+Web+Development+Enthusiast+🌐;🚀+Aspiring+Prompt+Engineer+🚀" />
-  </a>
+    <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FFBF&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&duration=2600&lines=🖥️+IT+Engineer+🖥️;🤖+AI+Developer+🤖;🌐+Web+Development+Enthusiast+🌐;🚀+Aspiring+Prompt+Engineer+🚀" />
+    </a>
 </p>
 
 <div align="center" style="font-size: 16px; line-height: 1.8;">
