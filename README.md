@@ -184,8 +184,8 @@ Feel free to ask me about:
 </p>
 
 <div align="center" style="font-size: 16px; line-height: 1.8;">
-🔭 <b>Currently working on:</b> SafeDesk, MusicAll, PyKing <br>
-👯 <b>Open to collaborate on:</b> TradeCoin, Laukku <br>
+🔭 <b>Currently working on:</b> SafeDesk, MusicAll, StreamSnatch and PyKing <br>
+👯 <b>Open to collaborate on:</b> TradeCoin and BlogSter<br>
 💬 <b>Ask me about:</b> Python, ML/DL, GenAI, Prompt Engineering <br>
 ⚡ <b>Fun Fact:</b> I can code for hours with just coffee and music 🎧☕ <br>
 📈 <b>Finance Buff:</b> Into stocks, crypto, and personal finance  
