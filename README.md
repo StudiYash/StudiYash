@@ -128,7 +128,7 @@ Feel free to ask me about:
 
 ---
 
-<h2 align="center">🖥️ Open-Source Projects 🖥️</h2>
+<h2 align="center">🖥️ Projects 🖥️</h2>
 
 <table>
 <tr><th>ML / DL / AI</th><th>Games and Fun</th></tr>
@@ -139,14 +139,14 @@ Feel free to ask me about:
 | [**DweshaMukt**](https://github.com/StudiYash/DweshaMukt) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/DweshaMukt"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TF-blue?style=flat&logo=tensorflow) ![NLTK](https://img.shields.io/badge/NLTK-darkgreen?style=flat&logo=python) ![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram) ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit) | ✅ Project Complete |
 | [**SafeDesk**](https://github.com/StudiYash/SafeDesk) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/SafeDesk"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat&logo=opencv) ![Face Recognition](https://img.shields.io/badge/FaceRecognition-darkred?style=flat&logo=opencv) ![Tkinter](https://img.shields.io/badge/Tkinter-teal?style=flat&logo=python) ![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail) ![QR Code](https://img.shields.io/badge/QR_Code-darkblue?style=flat&logo=python) | 🧪 Development Phase |
 | [**InstaVision**](https://github.com/StudiYash/InstaVision) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/InstaVision"/> | ![StableDiffusion](https://img.shields.io/badge/StableDiffusion-darkblue?style=flat&logo=stablediffusion) ![DALL-E](https://img.shields.io/badge/DALL--E-green?style=flat&logo=openai) ![Google Imagen](https://img.shields.io/badge/Google_Imagen-orange?style=flat&logo=google) | ✅ Project Complete |
-| [**MaxilloFusion**](https://github.com/StudiYash/Comparative_CT_MRI_Fusion) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/MaxilloFusion"/> | ![CT](https://img.shields.io/badge/CT-grey?style=flat&logo=dcm) ![MRI](https://img.shields.io/badge/MRI-darkblue?style=flat&logo=dcm) ![3D Slicer](https://img.shields.io/badge/3D_Slicer-blue?style=flat&logo=slicer) | 🚧 Ongoing |
-| [**DeepDent**](https://github.com/StudiYash/Jaw_Lesion_Diagnosis) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/Jaw_Lesion_Diagnosis"/> | ![CNN](https://img.shields.io/badge/CNN-darkgreen?style=flat&logo=pytorch) ![DICOM](https://img.shields.io/badge/DICOM-grey?style=flat&logo=dicom) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow) | 🚧 Ongoing |
+| [**MaxilloFusion**](https://github.com/StudiYash/MaxilloFusion) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/MaxilloFusion"/> | ![CT](https://img.shields.io/badge/CT-grey?style=flat&logo=dcm) ![MRI](https://img.shields.io/badge/MRI-darkblue?style=flat&logo=dcm) ![3D Slicer](https://img.shields.io/badge/3D_Slicer-blue?style=flat&logo=slicer) | 🚧 Ongoing |
+| [**DeepDent**](https://github.com/StudiYash/DeepDent) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/DeepDent"/> | ![CNN](https://img.shields.io/badge/CNN-darkgreen?style=flat&logo=pytorch) ![DICOM](https://img.shields.io/badge/DICOM-grey?style=flat&logo=dicom) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow) | 🚧 Ongoing |
 
 </td><td>
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
-| [**Bounceario**](https://github.com/StudiYash/Bounceario) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/Bounceario"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![Pygame](https://img.shields.io/badge/PyGame-darkgreen?style=flat&logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-teal?style=flat&logo=python) | ✅ Project Complete |
+| [**Bounceario**](https://github.com/StudiYash/RetroFusion/tree/main/Project%20Games/Sub-Project%2001%20-%20Bounceario) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/RetroFusion"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![Pygame](https://img.shields.io/badge/PyGame-darkgreen?style=flat&logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-teal?style=flat&logo=python) | ✅ Project Complete |
 
 </td></tr>
 </table>
@@ -168,7 +168,7 @@ Feel free to ask me about:
 
 | Title | Stars | Technologies | Status |
 |--|--|--|--|
-| [**Blogster**](https://github.com/StudiYash/Blogster) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/Blogster"/> | ![MERN](https://img.shields.io/badge/MERN-FullStack?style=flat&logo=javascript) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb) ![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=express) ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) | 🚧 Ongoing |
+| [**Blogster**](https://github.com/StudiYash/Blogster) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/Blogster"/> | ![MERN](https://img.shields.io/badge/MERN-FullStack?style=flat&logo=javascript) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb) ![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=express) ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) | 🔮 Planning Phase |
 | [**TradeCoin**](https://github.com/StudiYash/TradeCoin) | <img alt="Stars" src="https://img.shields.io/github/stars/StudiYash/TradeCoin"/> | ![Wondershare Mockit](https://img.shields.io/badge/Wondershare_Mockit-purple?style=flat&logo=wondershare) | ✅ Project Complete |
 
 </td></tr>
