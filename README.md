@@ -6,7 +6,13 @@
 <!-- ✨ Typing Header (Color Updated to #00FFBF) -->
 <p align="center">
     <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FFBF&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Yash+Shukla!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FFBF&size=35&center=true&vCenter=true&width=500&height=30&duration=2600&lines=Hi+There!+👋;+I'm+Yash+Shukla!" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FFBF&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=30&duration=2600&lines=🖥️+IT+Engineer+🖥️;🤖+AI+Developer+🤖;🌐+Web+Development+Enthusiast+🌐;🚀+Aspiring+Prompt+Engineer+🚀" />
     </a>
 </p>
 
@@ -18,23 +24,21 @@
 
 ### **🚀 Currently Learning**
 I'm currently taking the following courses on Udemy:
-- 🐍 **The Complete Python Bootcamp From Zero to Hero in Python**
-- 🔥 **REST APIs with Flask and Python in 2025**
-- 🛡️ **Learn Python & Ethical Hacking From Scratch**
-- 🗄️ **The Complete SQL Bootcamp: Go from Zero to Hero**
-- 🤖 **Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]**
-- 🧠 **Deep Learning A-Z 2025: Neural Networks, AI & ChatGPT Prize**
-- 🏆 **Artificial Intelligence A-Z 2025: Build 7 AI + LLM & ChatGPT**
-- 🚀 **Complete Generative AI Course With Langchain and Huggingface**
-- 🌐 **The Complete Full-Stack Web Development Bootcamp**
-- 📊 **Microsoft Excel: From Beginner to Expert**
 
-### **💬 Ask Me About**
-Feel free to ask me about:
-- 🐍 **Python**
-- 🤖 **Machine Learning & Deep Learning**
-- 🧠 **AI & ML**
-- 🌐 **HTML, CSS, and JavaScript**
+- 🐍 **Complete Python Bootcamp From Zero to Hero in Python**
+- ⚙️ **The Complete Data Structures and Algorithms Course in Python**
+- 🛡️ **REST APIs with Flask and Python in 2025**
+- 🗄️ **The Complete SQL Bootcamp – Go from Zero to Hero**
+- 📊 **Machine Learning A-Z™ — AI, Python & R + ChatGPT Bonus [2023]**
+- 🧠 **Deep Learning A-Z™ 2023 — Neural Networks, AI & ChatGPT Bonus**
+- 🤖 **Artificial Intelligence A-Z™ 2023 — Build an AI with ChatGPT-4**
+- 🧪 **Complete Generative AI Course with LangChain & Hugging Face**
+- 📘 **Ultimate RAG Bootcamp — LangChain, LangGraph & LangSmith**
+- 🌐 **The Complete 2023 Web Development Bootcamp**
+- 🎨 **Figma UI/UX Design Essentials**
+- 🏆 **Figma UI/UX Design Advanced**
+- 🎞️ **Motion Design with Figma — Animations, Motion Graphics, UX/UI**
+- 🐳 **Docker Mastery with Kubernetes + Swarm from a Docker Captain**
 
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 
@@ -174,25 +178,6 @@ Feel free to ask me about:
 
 </td></tr>
 </table>
-
-<!-- 🧠 More About Me (Updated Info) -->
-<h2 align="center">⚡ More About Me ⚡</h2>
-
-<p align="center">
-    <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00FFBF&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&duration=2600&lines=🖥️+IT+Engineer+🖥️;🤖+AI+Developer+🤖;🌐+Web+Development+Enthusiast+🌐;🚀+Aspiring+Prompt+Engineer+🚀" />
-    </a>
-</p>
-
-<div align="center" style="font-size: 16px; line-height: 1.8;">
-🔭 <b>Currently working on:</b> SafeDesk, MusicAll, StreamSnatch and PyKing <br>
-👯 <b>Open to collaborate on:</b> TradeCoin and BlogSter<br>
-💬 <b>Ask me about:</b> Python, ML/DL, GenAI, Prompt Engineering <br>
-⚡ <b>Fun Fact:</b> I can code for hours with just coffee and music 🎧☕ <br>
-📈 <b>Finance Buff:</b> Into stocks, crypto, and personal finance  
-</div>
-
----
 
 <h2 align="center">🚀 My Ventures 🚀</h2>
 
