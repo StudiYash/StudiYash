@@ -40,6 +40,8 @@ I'm currently taking the following courses on Udemy:
 - 🎞️ **Motion Design with Figma — Animations, Motion Graphics, UX/UI**
 - 🐳 **Docker Mastery with Kubernetes + Swarm from a Docker Captain**
 
+---
+
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 
 <div align="center">
@@ -84,6 +86,8 @@ I'm currently taking the following courses on Udemy:
     </tr>
   </table>
 </div>
+
+---
 
 <!-- 📬 Contact Info + Visitor Counter -->
 <div align="center"> 
